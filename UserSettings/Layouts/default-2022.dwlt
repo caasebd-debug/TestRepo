@@ -97,7 +97,7 @@ MonoBehaviour:
   m_MinSize: {x: 800, y: 271}
   m_MaxSize: {x: 4000, y: 4021}
   vertical: 0
-  controlID: 631
+  controlID: 14
   draggingID: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -123,7 +123,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 115
+  controlID: 59
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -300,7 +300,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 52
+  controlID: 60
   draggingID: 0
 --- !u!114 &13
 MonoBehaviour:
@@ -326,7 +326,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 53
+  controlID: 61
   draggingID: 0
 --- !u!114 &14
 MonoBehaviour:
@@ -471,7 +471,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/TriForge Assets/Fantasy Worlds - DEMO Content/Textures/Terrain
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -479,17 +479,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 72
   m_LastFolders:
-  - Assets/TriForge Assets/Fantasy Worlds - DEMO Content/Textures/Terrain
+  - Assets/Scenes
   m_LastFoldersGridSize: 72
-  m_LastProjectPath: C:\Users\caasebd\Unity Projects\Platformer Playground (Featuring
-    Starkid)
+  m_LastProjectPath: C:\Users\caasebd\Documents\GitHub\TestRepo
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 53}
-    m_SelectedIDs: 28780000
-    m_LastClickedID: 30760
-    m_ExpandedIDs: 00000000e8740000ec740000ee740000f27400001078000014780000187800002478000000ca9a3bffffff7f
+    m_SelectedIDs: 2c750000
+    m_LastClickedID: 29996
+    m_ExpandedIDs: 00000000fa740000fc740000fe7400000075000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -517,7 +516,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e8740000ea740000ec740000ee740000f0740000f2740000
+    m_ExpandedIDs: 00000000fa740000fc740000fe74000000750000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -544,7 +543,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000000000007e5c0000cc5c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -657,9 +656,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 90d6ffff
-      m_LastClickedID: -10608
-      m_ExpandedIDs: 52ddffffceeaffff2afbffffe85b0000
+      m_SelectedIDs: dee1ffff
+      m_LastClickedID: 0
+      m_ExpandedIDs: 2afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1026,9 +1025,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -272.64746, y: 119.83154, z: 264.82422}
+    m_Target: {x: -362.9876, y: -11.377575, z: 143.25282}
     speed: 2
-    m_Value: {x: -272.64746, y: 119.83154, z: 264.82422}
+    m_Value: {x: -362.9876, y: -11.377575, z: 143.25282}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1074,13 +1073,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.12833968, y: 0.4703542, z: -0.06863461, w: 0.87029874}
+    m_Target: {x: 0.1221745, y: 0.25445, z: -0.031714212, w: 0.958751}
     speed: 2
-    m_Value: {x: 0.12704448, y: 0.47049546, z: -0.06793479, w: 0.87056226}
+    m_Value: {x: 0.122134075, y: 0.2559031, z: -0.031899337, w: 0.9584254}
   m_Size:
-    m_Target: 4858.827
+    m_Target: 36.806427
     speed: 2
-    m_Value: 5087.777
+    m_Value: 36.806427
   m_Ortho:
     m_Target: 0
     speed: 2
